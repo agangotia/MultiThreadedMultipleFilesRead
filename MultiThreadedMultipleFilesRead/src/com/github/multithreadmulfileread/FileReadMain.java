@@ -10,7 +10,8 @@ import java.util.concurrent.Executors;
 
 /**
  * @author Anupam Gangotia
- *
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class FileReadMain {
 	
